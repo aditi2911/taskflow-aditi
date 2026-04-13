@@ -33,8 +33,8 @@ I intentionally left out pagination and the stats endpoint due to time constrain
 Prerequisites: Docker Desktop
 
 ```bash
-git clone https://github.com/your-username/taskflow-yourname
-cd taskflow-yourname
+git clone https://github.com/aditi2911/taskflow-aditi
+cd taskflow-aditi
 cp .env.example .env
 docker compose up --build
 ```
